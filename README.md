@@ -7,7 +7,7 @@ Welcome to the **CloudWise Community**! This is the central hub for users, devel
 CloudWise is a comprehensive AWS cost optimization platform that helps businesses:
 - **Monitor** AWS spending with real-time dashboards
 - **Optimize** costs through intelligent recommendations
-- **Forecast** future expenses with ML-powered predictions
+- **Forecast** future expenses with ML-powered predictions (coming soon)
 - **Control** budgets with automated alerts and governance
 
 ## 💬 Community Spaces
@@ -66,7 +66,7 @@ Our main community forum where you can:
 
 For official product support:
 - **Email**: support@cloudcostwise.io
-- **Documentation**: [CloudWise Help Center](https://app.cloudcostwise.io/help)
+- **Documentation**: [CloudWise Help Center](https://cloudcostwise.io/help)
 - **Status Page**: [status.cloudcostwise.io](https://status.cloudcostwise.io)
 
 ## 🌟 Getting Started with CloudWise
@@ -93,4 +93,4 @@ We recognize and celebrate our most helpful community members! Top contributors 
 
 ---
 
-**Ready to optimize your AWS costs?** [Start your free trial](https://app.cloudcostwise.io/signup) • [Join the discussion](https://github.com/cloudcostwise/community/discussions) • [Follow us on Twitter](https://twitter.com/cloudcostwise)
+**Ready to optimize your AWS costs?** [Start your free trial](https://cloudcostwise.io/auth/register/) • [Join the discussion](https://github.com/cloudwise-app/cloudwise-community/discussions)
