@@ -67,16 +67,15 @@ Our main community forum where you can:
 For official product support:
 - **Email**: support@cloudcostwise.io
 - **Documentation**: [CloudWise Help Center](https://cloudcostwise.io/help)
-- **Status Page**: [status.cloudcostwise.io](https://status.cloudcostwise.io)
 
 ## 🌟 Getting Started with CloudWise
 
 New to CloudWise? Here are some helpful resources:
 
-- [Quick Start Guide](https://docs.cloudcostwise.io/quick-start)
-- [AWS Setup Instructions](https://docs.cloudcostwise.io/aws-setup)
-- [Understanding AWS Costs](https://docs.cloudcostwise.io/understanding-costs)
-- [Cost Optimization Best Practices](https://docs.cloudcostwise.io/optimization-guide)
+- [Quick Start Guide](https://docs.cloudcostwise.io/guide/quick-start)
+- [AWS Setup Instructions](https://docs.cloudcostwise.io/guide/aws-setup)
+- [Understanding AWS Costs](https://docs.cloudcostwise.io/guide/understanding-aws-costs)
+- [Cost Optimization Best Practices](https://docs.cloudcostwise.io/optimization-guide.html)
 
 ## 🏆 Top Contributors
 
