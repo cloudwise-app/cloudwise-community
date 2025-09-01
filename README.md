@@ -75,7 +75,7 @@ New to CloudWise? Here are some helpful resources:
 - [Quick Start Guide](https://docs.cloudcostwise.io/guide/quick-start)
 - [AWS Setup Instructions](https://docs.cloudcostwise.io/guide/aws-setup)
 - [Understanding AWS Costs](https://docs.cloudcostwise.io/guide/understanding-aws-costs)
-- [Cost Optimization Best Practices](https://docs.cloudcostwise.io/optimization-guide.html)
+- [Cost Optimization Best Practices](https://docs.cloudcostwise.io/guide/optimization-guide)
 
 ## 🏆 Top Contributors
 
@@ -87,8 +87,10 @@ We recognize and celebrate our most helpful community members! Top contributors 
 
 ## 📈 Community Stats
 
-![GitHub Discussions](https://img.shields.io/github/discussions/cloudcostwise/community?style=flat-square)
-![Community Members](https://img.shields.io/github/followers/cloudcostwise?style=flat-square&label=Community%20Members)
+![GitHub Discussions](https://img.shields.io/github/discussions/cloudwise-app/cloudwise-community?style=flat-square)
+![Community Members](https://img.shields.io/github/followers/cloudwise-app?style=flat-square&label=Community%20Members)
+![Repository Stars](https://img.shields.io/github/stars/cloudwise-app/cloudwise-community?style=flat-square)
+![License](https://img.shields.io/badge/license-Community-blue?style=flat-square)
 
 ---
 
