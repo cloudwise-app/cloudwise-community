@@ -1,0 +1,24 @@
+<svg width="340" height="100" viewBox="0 0 340 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="CloudWise Logo Wordmark">
+  <defs>
+    <linearGradient id="cwGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="45%" stop-color="#2563EB" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+    <clipPath id="clipText">
+      <text x="120" y="66" font-family="'Inter', Arial, sans-serif" font-size="54" font-weight="600" letter-spacing="-1">Cloud</text>
+    </clipPath>
+  </defs>
+  <!-- Mark -->
+  <g transform="translate(10,5) scale(0.9)">
+    <path d="M62.5 25c-5.625 0-10.458 4.167-11.417 9.583A19.54 19.54 0 0 0 45.833 33.75c-7.625 0-13.917 5.458-14.583 12.917v.083C22.75 47.333 16.667 54.5 16.667 62.917 16.667 71.792 23.708 79.167 32.5 79.167H68.75c8.792 0 15.833-6.959 15.833-15.834 0-8.083-6-14.75-13.75-15.583C70.25 35.583 62.5 25 62.5 25Z" fill="url(#cwGrad2)"/>
+    <g fill="#FFFFFF" fill-opacity="0.95">
+      <rect x="39" y="54" width="9" height="16" rx="2" />
+      <rect x="52" y="46" width="9" height="24" rx="2" />
+      <rect x="65" y="60" width="9" height="11" rx="2" />
+    </g>
+  </g>
+  <!-- Wordmark -->
+  <text x="120" y="66" font-family="'Inter', Arial, sans-serif" font-size="54" font-weight="600" letter-spacing="-1" fill="url(#cwGrad2)">Cloud</text>
+  <text x="263" y="66" font-family="'Inter', Arial, sans-serif" font-size="54" font-weight="600" letter-spacing="0" fill="#0F172A">Wise</text>
+</svg>

@@ -1,6 +1,23 @@
-# 🌟 CloudWise Community
+<div align="center">
+  <img src="assets/logo-wordmark.svg" alt="CloudWise" width="300" />
+  <h1>CloudWise Community</h1>
+  <p><strong>The central hub for AWS cost optimization enthusiasts</strong></p>
+  
+  [![GitHub Discussions](https://img.shields.io/github/discussions/cloudwise-app/cloudwise-community?style=for-the-badge&logo=github&color=2563eb)](https://github.com/cloudwise-app/cloudwise-community/discussions)
+  [![Community Members](https://img.shields.io/github/followers/cloudwise-app?style=for-the-badge&label=Community%20Members&logo=github&color=7c3aed)](https://github.com/cloudwise-app)
+  [![Repository Stars](https://img.shields.io/github/stars/cloudwise-app/cloudwise-community?style=for-the-badge&logo=github&color=059669)](https://github.com/cloudwise-app/cloudwise-community)
+  
+  <p>
+    <a href="https://cloudcostwise.io">🌐 Website</a> •
+    <a href="https://docs.cloudcostwise.io">📚 Documentation</a> •
+    <a href="https://github.com/cloudwise-app/cloudwise-community/discussions">💬 Discussions</a> •
+    <a href="https://cloudcostwise.io/contact">✉️ Contact</a>
+  </p>
+</div>
 
-Welcome to the **CloudWise Community**! This is the central hub for users, developers, and cloud cost optimization enthusiasts to connect, share knowledge, and help each other succeed with AWS cost management.
+---
+
+Welcome to the **CloudWise Community**! This is where users, developers, and cloud cost optimization enthusiasts connect, share knowledge, and help each other succeed with AWS cost management.
 
 ## 🚀 About CloudWise
 
@@ -85,13 +102,23 @@ We recognize and celebrate our most helpful community members! Top contributors 
 - Direct line to our product team
 - Invitations to exclusive webinars
 
-## 📈 Community Stats
-
-![GitHub Discussions](https://img.shields.io/github/discussions/cloudwise-app/cloudwise-community?style=flat-square)
-![Community Members](https://img.shields.io/github/followers/cloudwise-app?style=flat-square&label=Community%20Members)
-![Repository Stars](https://img.shields.io/github/stars/cloudwise-app/cloudwise-community?style=flat-square)
-![License](https://img.shields.io/badge/license-Community-blue?style=flat-square)
-
 ---
 
-**Ready to optimize your AWS costs?** [Start your free trial](https://cloudcostwise.io/auth/register/) • [Join the discussion](https://github.com/cloudwise-app/cloudwise-community/discussions)
+<div align="center">
+  <h2>� Ready to optimize your AWS costs?</h2>
+  
+  <p>
+    <a href="https://cloudcostwise.io/auth/register">
+      <img src="https://img.shields.io/badge/Start%20Free%20Trial-15%20Days-2563eb?style=for-the-badge&logo=aws&logoColor=white" alt="Start Free Trial" />
+    </a>
+    <a href="https://github.com/cloudwise-app/cloudwise-community/discussions">
+      <img src="https://img.shields.io/badge/Join%20Discussion-Community-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Join Discussion" />
+    </a>
+  </p>
+  
+  <img src="assets/logo-mark.svg" alt="CloudWise" width="48" />
+  
+  <p><em>Democratizing AWS cost optimization for businesses worldwide</em></p>
+  
+  <sub>© 2025 CloudWise. Built with ❤️ for the cloud community.</sub>
+</div>
