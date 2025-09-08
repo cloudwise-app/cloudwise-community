@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo-wordmark.svg" alt="CloudWise" width="300" />
+  <img src="assets/logo-mark.svg" alt="CloudWise" width="120" />
   <h1>CloudWise Community</h1>
   <p><strong>The central hub for AWS cost optimization enthusiasts</strong></p>
   

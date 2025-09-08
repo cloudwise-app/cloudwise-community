@@ -1,7 +1,8 @@
 # CloudWise Organization Profile
 
 <div align="center">
-  <img src="../assets/logo-wordmark.svg" alt="CloudWise" width="300" />
+  <img src="../assets/logo-mark.svg" alt="CloudWise" width="120" />
+  <h1>CloudWise</h1>
   <p><strong>Democratizing AWS cost optimization for businesses worldwide</strong></p>
 </div>
 
