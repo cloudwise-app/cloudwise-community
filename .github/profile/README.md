@@ -21,7 +21,7 @@ To make AWS cost optimization accessible, intelligent, and actionable for every 
 
 ## 📊 By The Numbers
 
-- **25%** average cost reduction for our customers
+- **30%** average cost reduction for our customers
 - **$150K+** total customer savings to date
 - **50+** growing companies served
 - **5 minutes** average setup time
