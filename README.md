@@ -109,7 +109,7 @@ We recognize and celebrate our most helpful community members! Top contributors 
   
   <p>
     <a href="https://cloudcostwise.io/auth/register">
-      <img src="https://img.shields.io/badge/Start%20Free%20Trial-15%20Days-2563eb?style=for-the-badge&logo=aws&logoColor=white" alt="Start Free Trial" />
+      <img src="https://img.shields.io/badge/Start%20Free%20Trial-15%20Days-2563eb?style=for-the-badge&logo=aws&logoColor=white" alt="Get Started Free" />
     </a>
     <a href="https://github.com/cloudwise-app/cloudwise-community/discussions">
       <img src="https://img.shields.io/badge/Join%20Discussion-Community-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Join Discussion" />

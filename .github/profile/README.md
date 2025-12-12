@@ -40,7 +40,7 @@ Join our growing community of cloud cost optimization enthusiasts:
 <div align="center">
   <p>
     <a href="https://cloudcostwise.io">🌐 Website</a> •
-    <a href="https://cloudcostwise.io/auth/register">🚀 Start Free Trial</a> •
+    <a href="https://cloudcostwise.io/auth/register">🚀 Get Started Free</a> •
     <a href="https://docs.cloudcostwise.io">📖 Documentation</a>
   </p>
   
