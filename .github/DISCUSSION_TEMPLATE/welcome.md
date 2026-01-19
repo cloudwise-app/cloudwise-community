@@ -23,7 +23,7 @@ Thank you for joining our community! We're excited to have you here.
 
 ## 🔗 Helpful Resources
 
-- [CloudWise Help Center](https://app.cloudcostwise.io/help)
+- [CloudWise Help Center](https://cloudcostwise.io/help)
 - [Documentation](https://docs.cloudcostwise.io)
 - [Support Email](mailto:support@cloudcostwise.io)
 
